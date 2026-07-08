@@ -3,7 +3,7 @@
 minimal termux setup.
 
 ### includes
-- `hushlogin` - hide login text on startup
+- `hushlogin` - hide text on startup
 - `nvim` - extremely minimal neovim config  
 - `termux` - iosevka bold font
 
