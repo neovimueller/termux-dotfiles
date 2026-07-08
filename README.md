@@ -1,6 +1,6 @@
 # termux-dotfiles
 
-minimal termux setup.
+minimal termux setup
 
 ### includes
 - `hushlogin` - hide text on startup
