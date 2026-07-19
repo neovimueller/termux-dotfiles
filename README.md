@@ -16,6 +16,4 @@ minimal termux setup
 ```bash
 git clone https://github.com/nvimueller/termux-dotfiles.git
 cd termux-dotfiles
-stow hushlogin
-stow nvim
-stow termux
+stow hushlogin nvim termux
